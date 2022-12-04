@@ -101,7 +101,7 @@ for filename in os.listdir(".\\shortcuts"):
 # paths = json.loads(paths)
 # data = paths["items"]
 
-with open('example.ini', 'w') as configfile:
+with open('expanding-hexagons.ini', 'w') as configfile:
     button = []
     cs = 0
     ce = row - 1
