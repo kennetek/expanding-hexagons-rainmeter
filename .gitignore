@@ -1,6 +1,7 @@
 /.ignore/
 /.idea/
+/__pychache__/
 *.lnk
 *.url
-example.ini
+expanding-hexagons.ini
 
